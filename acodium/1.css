@@ -1,0 +1,34 @@
+*{margin:0;padding: 0;}
+body {
+    background: url(images/bg.jpg);
+    font-family: cursive;
+}
+.ndmotkhoi {
+    padding: 10px;
+    border: 1px solid #d9d9d9;
+    background: white;
+    color: gray;
+    text-align: justify;
+}
+
+.motkhoi h3 {
+    background: #74b9ff;
+    color: white;
+    padding: 10px 15px;
+}
+
+.motkhoi h3:hover {
+    background: url(images/arrow.png) no-repeat 96% #74b9ff;
+}
+
+.hieuung {
+    width: 40%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.container {
+    text-align: center;
+}
+
+ 
